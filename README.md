@@ -21,7 +21,7 @@ site: основной сайт курса (можно не указывать),
 ---
 title: Сюда вписать имя фамилию преподавателя (название которое во вкладке браузера )
 name: Продублировать имя преподавателя (так как на сайте будет)
-position: phd (начная степень преподавателя или должность, возможные значения смотрите тут https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_config.yml#L81)
+position: phd (начная степень преподавателя или должность, возможные значения смотрите тут https://github.com/intsystems/intsystems.github.ioblob/master/_config.yml#L81)
 avatar: название изображению в папке images/people (если поле пустое, то будет взято default.jpg изображение)
 mail: почта преподавателя (может быть пусто)
 site: сайт преподавателя (может быть пусто)
@@ -33,30 +33,30 @@ scholar: ссылка на scholar (может быть пусто)
 
 ## Исправления текста локализации en/ru
 
-Английский язык: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en.yml)
+Английский язык: [ссылка](https://github.com/intsystems/intsystems.github.ioblob/master/_i18n/en.yml)
 
-Русский язык: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru.yml)
+Русский язык: [ссылка](https://github.com/intsystems/intsystems.github.ioblob/master/_i18n/ru.yml)
 
 ## Изменения страницы HOME
 
-Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/index.md)
+Метаинформация страницы: [ссылка](https://github.com/intsystems/intsystems.github.ioedit/master/index.md)
 
-Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/index.md)
+Английская версия: [ссылка](https://github.com/intsystems/intsystems.github.ioblob/master/_i18n/en/index.md)
 
-Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/index.md)
+Русская версия: [ссылка](https://github.com/intsystems/intsystems.github.ioblob/master/_i18n/ru/index.md)
 
 ## Изменения страницы ABOUT
 
-Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/about.md)
+Метаинформация страницы: [ссылка](https://github.com/intsystems/intsystems.github.ioedit/master/about.md)
 
-Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/about.md)
+Английская версия: [ссылка](https://github.com/intsystems/intsystems.github.ioblob/master/_i18n/en/about.md)
 
-Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/about.md)
+Русская версия: [ссылка](https://github.com/intsystems/intsystems.github.ioblob/master/_i18n/ru/about.md)
 
 ## Изменения страницы Admission
 
-Метаинформация страницы: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/edit/master/admission.md)
+Метаинформация страницы: [ссылка](https://github.com/intsystems/intsystems.github.ioedit/master/admission.md)
 
-Английская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/en/admission.md)
+Английская версия: [ссылка](https://github.com/intsystems/intsystems.github.ioblob/master/_i18n/en/admission.md)
 
-Русская версия: [ссылка](https://github.com/Intelligent-Systems-Phystech/intelligent-systems-phystech.github.io/blob/master/_i18n/ru/admission.md)
+Русская версия: [ссылка](https://github.com/intsystems/intsystems.github.ioblob/master/_i18n/ru/admission.md)

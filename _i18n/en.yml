@@ -1,0 +1,168 @@
+site:
+  index:
+    department: |-
+      Department of Intelligent Systems
+    address: |-
+      Earth
+    
+  name: "Intelligent Systems Phystech"
+  
+  nav:
+    names:
+      home: "home"
+      about: "about"
+      lecturers: "lecturers"
+      courses: "courses"
+      admission: "admission"
+      materials: "materials"
+      nir: "research reports"
+      thesis: "theses"
+      templates: "templates"
+      seminars: "seminars"
+      paper_guidelines: "scientific paper writing"        
+  
+  global:
+    course:
+      types:
+        bachelor: Bachelor
+        master: Master
+    people:
+      roles:
+        hotd: Founders of the Department
+        dos: Doctors of Science
+        phd: Ph.D, teachers
+        gs: Graduate Students, Instructors
+        template: TEMPLATE
+
+
+    
+peoples:
+  name:
+    grabovoy_av: Andrey Grabovoy
+    aduenko_aa: Aleksander Aduenko
+    bakhteev_oy: Oleg Bakhteev
+    khrilchenko_ky: Kirill Khrylchenko
+    isachenko_rv: Roman Isachenko
+    khritankov_as: Anton Khritankov
+    kropotov_da: Dmitriy Kropotov
+    meysuradze_ai: Archil Meysuradze
+    mestetskiy_lm: Leonid Mestetskiy
+    popov_as: Artem Popov
+    potanin_ms: Mark Potanin
+    strijov_vv: Vadim Strijov
+    vorontsov_kv: Konstantin Vorontsov
+    torshin_iy: Ivan Torshin
+    rudakov_kv: Konstantin Rudakov
+    zhuravlyov_yv: Yuri Zhuravlyov
+    apishev_ma: Murat Apishev     
+    gneushev_an: Alexander Gneushev
+    dulin_sk: Sergey Dulin
+    khoroshevsky_vf: Vladimir Khoroshevsky
+    mohonko_ez: Elena Mohonko
+    tsurkov_vi: Vladimir Tsurkov
+    matveev_ia: Ivan Matveev
+    chekhovich_yv: Yury Chekhovich
+    grebenkova_os: Olga Grebenkova
+    filatov_av: Andrey Filatov
+    samokhina_am: Alina Samokhina
+    severilov_pa: Pavel Severilov
+    bishuk_ay: Anton Bishuk
+    
+  title:
+    grabovoy_av: Andrey Grabovoy
+    aduenko_aa: Aleksander Aduenko
+    bakhteev_oy: Oleg Bakhteev
+    khrilchenko_ky: Kirill Khrylchenko
+    isachenko_rv: Roman Isachenko
+    khritankov_as: Anton Khritankov
+    kropotov_da: Dmitriy Kropotov
+    meysuradze_ai: Archil Meysuradze
+    mestetskiy_lm: Leonid Mestetskiy
+    popov_as: Artem Popov
+    potanin_ms: Mark Potanin
+    strijov_vv: Vadim Strijov
+    vorontsov_kv: Konstantin Vorontsov
+    torshin_iy: Ivan Torshin
+    rudakov_kv: Konstantin Rudakov
+    zhuravlyov_yv: Yuri Zhuravlyov
+    apishev_ma: Murat Apishev     
+    gneushev_an: Alexander Gneushev   
+    dulin_sk: Sergey Dulin
+    khoroshevsky_vf: Vladimir Khoroshevsky
+    mohonko_ez: Elena Mohonko
+    tsurkov_vi: Vladimir Tsurkov
+    matveev_ia: Ivan Matveev
+    chekhovich_yv: Yury Chekhovich 
+    grebenkova_os: Olga Grebenkova
+    filatov_av: Andrey Filatov
+    samokhina_am: Alina Samokhina
+    severilov_pa: Pavel Severilov
+    bishuk_ay: Anton Bishuk
+    
+courses:
+  name:
+    automation_scientific_research: Automation of Scientific Research
+    bayesian_model_selection: Bayesian Model Selection
+    bayesian_multimodeling: Bayesian Multimodeling
+    bioinformatics: Bioinformatics
+    computational_geometry: Computational Geometry
+    deep_generative_models: Deep Generative Models
+    deep_learning: Deep Learning
+    forecasting_methods: Forecasting Methods
+    fundamental_ml_theorems: Fundamental Machine Learning Theorems
+    image_processing_recognition: Image Processing and Recognition
+    introduction_machine_learning: Introduction to Machine Learning
+    natural_language_processing: Natural Language Processing
+    networks_text_analysis: Networks and Text Analysis
+    neural_architecture_search: Neural Architecture Search
+    probabilistic_topic_models: Probabilistic Topic Models
+    rnd_in_ai: Creation of Intelligent Systems
+    signal_processing: Signal Processing
+    software_engineering_data_analysis: Software Engineering for Data Analysis
+  title:
+    automation_scientific_research: Automation of Scientific Research
+    bayesian_model_selection: Bayesian Model Selection
+    bayesian_multimodeling: Bayesian Multimodeling
+    bioinformatics: Bioinformatics
+    computational_geometry: Computational Geometry Algorithms
+    deep_generative_models: Deep Generative Models
+    deep_learning: Deep Learning
+    forecasting_methods: Forecasting Methods
+    fundamental_ml_theorems: Fundamental Machine Learning Theorems
+    image_processing_recognition: Image Processing and Recognition
+    introduction_machine_learning: Introduction to Machine Learning
+    natural_language_processing: Natural Language Processing
+    networks_text_analysis: Networks and Text Analysis
+    neural_architecture_search: Neural Architecture Search
+    probabilistic_topic_models: Probabilistic Topic Models
+    rnd_in_ai: Creation of Intelligent Systems
+    signal_processing: Signal Processing
+    software_engineering_data_analysis: Software Engineering for Data Analysis
+      
+titles:
+  index: Intelligent Systems Phystech
+  about: About
+  course: Course
+  people: Lecturers
+  materials: Materials
+  nir: Research Reports
+  thesis: Theses
+  templates: Templates
+  paper_guidelines: "Papers and theses writing guidelines"
+  admission: Admission
+  seminars: Scientific seminars
+
+course:
+  teachers: Lecturers
+  website: Course Website
+  
+profile:
+  website: Personal Website
+  teaches: Teaches
+  
+metatags:
+    lecturer: Lecturer of the Department of Intelligent Systems at MIPT
+    bachelor_course: Course of the Bachelor program of Intelligent Systems at MIPT
+    master_course: Course of the Master program of Intelligent Systems at MIPT
+    
+      

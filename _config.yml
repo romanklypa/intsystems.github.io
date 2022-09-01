@@ -1,0 +1,147 @@
+brand:              /images/logo/logo_square.jpg
+image:              
+og:
+  image:            /images/main/main.jpg
+
+url:                http//intsystems.github.io
+edit:               https://github.com/intsystems/intsystems.github.io/edit/master/
+baseurl:
+permalink:          /:year/:month/:day/:title.html
+
+sidebar: true
+
+# Main Info
+github: intsystems
+mail: research.n.math@gmail.com
+youtube: https://www.youtube.com/c/MachineLearningPhystech
+  
+header:
+- Machine Learning
+- Data Analysis
+
+# Markdown
+markdown:           kramdown
+
+# Sass
+sass:
+  sass_dir:         _sass
+  style:            :compressed
+
+exclude: ["LICENSE", "README.md", "Gemfile", "Gemfile.lock", "vendor", "_sass"]
+
+# Highlighter
+highlighter:        rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-multiple-languages-plugin
+  - jekyll-toc
+  - jekyll-sitemap
+  
+languages: ["en", "ru"]
+
+exclude_from_localizations: ["images", "favicon.ico", "javascript", "style.scss"]
+
+default_locale_in_subfolder: False
+
+# Navigation
+nav:
+  pages:
+  - id: "home"
+    href: "/"
+    name: site.nav.names.home
+    dropdown:
+  - id: "about"
+    href: "/about"
+    name: site.nav.names.about
+    dropdown:
+  - id: "lecturers"
+    href: "/people"
+    name: site.nav.names.lecturers
+    dropdown:
+  - id: "courses"
+    href: "/course"
+    name: site.nav.names.courses
+    dropdown:
+  - id: "admission"
+    href: "/admission"
+    name: site.nav.names.admission
+    dropdown:
+  - id: "materials"
+    href: "/materials"
+    name: site.nav.names.materials
+    dropdown:
+    - id: "nir"
+      href: "/materials/nir"
+      name: site.nav.names.nir
+    - id: "thesis"
+      href: "/materials/thesis"
+      name: site.nav.names.thesis
+    - id: "templates"
+      href: "/materials/templates"
+      name: site.nav.names.templates
+    - id: "seminars"
+      href: "/materials/seminars"
+      name: site.nav.names.seminars
+    - id: "paper_guidelines"
+      href: "/materials/paper_guidelines"
+      name: site.nav.names.paper_guidelines
+
+# Scopes
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
+  - scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  - scope:
+      path:         ""
+      type:         "materials"
+    values:
+      layout:       "page"
+  - scope:
+      path:         ""
+      type:         "admission"
+    values:
+      layout:       "page"
+  - scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+  - scope:
+      path:         ""
+      type:         "course"
+    values:
+      layout:       "course"
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
+  course:
+    output: true
+    permalink: /course/:title/index.html
+
+
+global:
+  langs:
+    ru: Русский
+    en: English
+
+  course:
+    types:
+    - bachelor
+    - master
+
+  people:
+    roles:
+    - hotd
+    - dos
+    - phd
+    - gs
+    - template

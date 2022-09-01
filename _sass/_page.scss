@@ -1,0 +1,126 @@
+.container {
+    width: 100%;
+    padding: 0px;
+}
+
+.content {
+  padding: 10px;
+  margin-left:  auto;
+  margin-right: auto;
+  text-align: justify;
+  min-height: 100vh;
+}
+
+.sidebar-left {
+  display: flex;
+  overflow-y: scroll;
+  background-color: $bg-sidecar;
+}
+
+@media (min-width: $lt-width) {
+  .container {
+    width: $lt-width;
+  }
+
+  .content {
+    margin-left: calc(#{$page-margin}*100%);
+    width: calc(#{$lt-width} * 0.7);
+  }
+
+  .sidebar-left {
+    position: fixed;
+    top: 50px;
+    bottom: 0px;
+    width: calc(#{$lt-width} * #{$page-margin});
+  }
+}
+
+@media (min-width: $lt-width) {
+  .container {
+    width: 100%;
+  }
+
+  .content {
+    margin-left: calc(#{$page-margin}*100%);
+    width: 70%;
+  }
+
+  .sidebar-left {
+    position: fixed;
+    top: 50px;
+    bottom: 0px;
+    width: calc(#{$page-margin}*100%);
+  }
+}
+
+@media (min-width: $xl-width) {
+  .container {
+    width: $lg-width;
+  }
+
+  .content {
+    margin-left: calc(#{$page-margin}*100%);
+    width: calc(#{$lg-width} * 0.7);
+  }
+
+  .sidebar-left {
+    position: fixed;
+    top: 50px;
+    bottom: 0px;
+    width: calc(#{$lg-width} * #{$page-margin});
+  }
+}
+
+@media (min-width: $qhd-width) {
+  .container {
+    width: $xl-width;
+  }
+
+  .content {
+    margin-left: calc(#{$page-margin}*100%);
+    width: calc(#{$xl-width} * 0.7);
+  }
+
+  .sidebar-left {
+    position: fixed;
+    top: 50px;
+    bottom: 0px;
+    width: calc(#{$xl-width} * #{$page-margin});
+  }
+}
+
+@media (min-width: $wqhd-width) {
+  .container {
+    width: $qhd-width;
+  }
+
+  .content {
+    margin-left: calc(#{$page-margin}*100%);
+    width: calc(#{$qhd-width} * 0.7);
+  }
+
+  .sidebar-left {
+    position: fixed;
+    top: 50px;
+    bottom: 0px;
+    width: calc(#{$qhd-width} * #{$page-margin});
+  }
+}
+
+@media (min-width: $uhd-width) {
+  .container {
+    width: $wqhd-width;
+  }
+
+  .content {
+    margin-left: calc(#{$page-margin}*100%);
+    width: calc(#{$wqhd-width} * 0.7);
+  }
+
+  .sidebar-left {
+    position: fixed;
+    top: 50px;
+    bottom: 0px;
+    width: calc(#{$wqhd-width} * #{$page-margin});
+  }
+}

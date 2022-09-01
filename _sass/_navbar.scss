@@ -1,0 +1,130 @@
+// Навигация по сайт (сверху)
+.navbar-page {
+  height: 50px;
+  margin-bottom: 0px;
+  width: 100%;
+}
+
+.navbar-container {
+  height: 100%;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: $lt-width) {
+  .navbar-right {
+    float: right!important;
+    margin-right: 0px;
+  }
+  
+  .navbar-container {
+    width: 100%;
+  }
+}
+
+@media (min-width: $md-width) {
+  .navbar-container {
+    width: 100%;
+  }
+}
+
+@media (min-width: $xl-width) {
+  .navbar-container {
+    width: $lg-width;
+  }
+}
+
+@media (min-width: $qhd-width) {
+  .navbar-container {
+    width: $xl-width;
+  }
+}
+
+@media (min-width: $wqhd-width) {
+  .navbar-container {
+    width: $qhd-width;
+  }
+}
+
+@media (min-width: $uhd-width) {
+  .navbar-container {
+    width: $wqhd-width;
+  }
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-weight: 300;
+  padding: 0px;
+}
+
+// change font for navbar
+.navbar {
+  margin-bottom: 0px;
+}
+
+.navbar, .navbar-nav>li>a {
+  background-color: $bg-navbar;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 80%;
+}
+
+.navbar-nav>li {
+  margin-bottom: 0;
+  padding: 0px;
+}
+
+.navbar-toggle, .navbar-default .navbar-toggle:hover {
+  border: none;
+  background-color: $bg-navbar;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Навигация по странице (слева)
+
+div.section-nav {
+  display: flex;
+}
+
+ul.section-nav {
+  margin: auto;
+  text-align: left;
+  list-style-type: none;
+  padding: 10px;
+}
+
+.toc-entry>ul > li::before {
+  display: inline-block;
+  content: "-";
+  width: 1em;
+  text-align: center;
+  margin-left: -1em;
+}
+ul.section-nav  > li::before {
+  display: inline-block;
+  content: "-";
+  width: 1em;
+  text-align: center;
+  margin-left: -1em;
+}
+
+.toc-entry>ul {
+  list-style-type: none;
+}
+
+.toc-entry>a {
+  color: inherit;
+  font-size: 12px;
+  
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    text-shadow: 0px 0px 4px;
+  }
+}

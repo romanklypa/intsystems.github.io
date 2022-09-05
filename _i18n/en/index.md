@@ -48,7 +48,8 @@
 
 #### Fall 2022
 
-- **September 7** - start of classes
+- **September 6** - start of classes
+- **September 15** - scientific scholarship deadline
 - **October 13** - deadline for submitting to MIPT conference
 - **December 4** - MIPT conference, listening of theses 6
 - **December 13** - listening of theses 4, 5

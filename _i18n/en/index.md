@@ -19,30 +19,30 @@
 
 #### 4 year, 7 semester - tuesday
 
-| Time | Course | Teachers |Grading |
-|---|---|---|---|
-| 10:30-12:00 | [Deep Learning](/course/deep_learning/index.html) |[Olga Grebenkova](/people/grebenkova_os/index.html), [Andrey Filatov](/people/filatov_av/index.html) | Exam | 
-| 12:10-13:40 | [Deep Learning: practice](/course/deep_learning/index.html) |[Olga Grebenkova](/people/grebenkova_os/index.html), [Andrey Filatov](/people/filatov_av/index.html) | Exam | 
-|  | [Computational Geometry](/course/computational_geometry/index.html) | [Leonid Mestetskiy](/people/mestetskiy_lm/index.html) | Exam |
-| 14:30-16:00 | [Bayesian Model Selection](/course/bayesian_model_selection/index.html) | [Alexander Aduenko](/people/aduenko_aa/index.html) | Exam |
-| 16:10-17:40 | [Forecasting Methods](/course/forecasting_methods/index.html) | [Vadim Strijov](/people/strijov_vv/index.html), [Alina Samokhina](/people/samokhina_am/index.html) | Credit | 
+| Time | Course | Teachers | Grading | Credit Points |
+|---|---|---|---|---|
+| 10:30-12:00 | [Deep Learning](/course/deep_learning/index.html) |[Olga Grebenkova](/people/grebenkova_os/index.html), [Andrey Filatov](/people/filatov_av/index.html) | Exam | 3 |
+| 12:10-13:40 | [Deep Learning: practice](/course/deep_learning/index.html) |[Olga Grebenkova](/people/grebenkova_os/index.html), [Andrey Filatov](/people/filatov_av/index.html) | Credit | 1 |
+|  | [Computational Geometry](/course/computational_geometry/index.html) | [Leonid Mestetskiy](/people/mestetskiy_lm/index.html) | Credit | 1 |
+| 14:30-16:00 | [Bayesian Model Selection](/course/bayesian_model_selection/index.html) | [Alexander Aduenko](/people/aduenko_aa/index.html) | Credit | 1 |
+| 16:10-17:40 | [Forecasting Methods](/course/forecasting_methods/index.html) | [Vadim Strijov](/people/strijov_vv/index.html), [Alina Samokhina](/people/samokhina_am/index.html) | Credit | 1 |
 
 #### 5 course, 9 semester - tuesday
 
-| Time | Course  | Teachers  | Grading  |
-|---|---|---|---|
-| 10:30-12:00 | [Deep Generative Models](/course/deep_generative_models/index.html) | [Roman Isachenko](/people/isachenko_rv/index.html) | Exam |
-| 12:10-13:40 | [Creation of Intelligent Systems](/course/rnd_in_ai/index.html) | [Andrey Grabovoy](/people/grabovoy_av/index.html) | Credit |
-| 14:30-16:00 | [Bayesian Multimodeling](/course/bayesian_multimodeling/index.html) | [Oleg Bakhteev](/ru/people/bakhteev_oy/index.html) | Exam |
-| 16:10-17:40 | [Natural Language Processing](/course/natural_language_processing/index.html) | [Artem Popov](/ru/people/popov_as/index.html), [Kirill Khrylchenko](/people/khrilchenko_ky/index.html) | Exam |
+| Time | Course  | Teachers  | Grading  | Credit Points |
+|---|---|---|---|---|
+| 10:30-12:00 | [Deep Generative Models](/course/deep_generative_models/index.html) | [Roman Isachenko](/people/isachenko_rv/index.html) | Credit | 1 |
+| 12:10-13:40 | [Creation of Intelligent Systems](/course/rnd_in_ai/index.html) | [Andrey Grabovoy](/people/grabovoy_av/index.html) | Credit | 2 |
+| 14:30-16:00 | [Bayesian Multimodeling](/course/bayesian_multimodeling/index.html) | [Oleg Bakhteev](/ru/people/bakhteev_oy/index.html) | Credit | 2 |
+| 16:10-17:40 | [Natural Language Processing](/course/natural_language_processing/index.html) | [Artem Popov](/ru/people/popov_as/index.html), [Kirill Khrylchenko](/people/khrilchenko_ky/index.html) | Exam | 2 |
 
 #### 6 course, 11 semester
 
-| Time | Course  | Teachers  | Grading  |
-|---|---|---|---|
-| 10:30-12:00 | [Signal Processing](/course/signal_processing/index.html) |  [Pavel Severilov](/people/severilov_pa/index.html) | Exam |
-| 12:10-13:40  | Intelligent Data Analysis | [Vadim Strijov](/people/strijov_vv/index.html), [Oleg Bakhteev](/ru/people/bakhteev_oy/index.html) | Credit |
-| 14:30-16:00 | [Probabilistic Topic Models](/course/probabilistic_topic_models/index.html) | [Konstantin Vorontsov](/people/vorontsov_kv/index.html) | Credit |
+| Time | Course  | Teachers  | Grading  | Credit Points |
+|---|---|---|---|---|
+| 10:30-12:00 | [Signal Processing](/course/signal_processing/index.html) |  [Pavel Severilov](/people/severilov_pa/index.html) | Credit | 1 |
+| 12:10-13:40  | Intelligent Data Analysis | [Vadim Strijov](/people/strijov_vv/index.html), [Oleg Bakhteev](/ru/people/bakhteev_oy/index.html) | Exam | 4 |
+| 14:30-16:00 | [Probabilistic Topic Models](/course/probabilistic_topic_models/index.html) | [Konstantin Vorontsov](/people/vorontsov_kv/index.html) | Credit | 2 |
 
 ### Key dates
 

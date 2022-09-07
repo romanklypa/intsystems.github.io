@@ -1,4 +1,4 @@
-<--## The 2022 admission to Master's programme
+<!--## The 2022 admission to Master's programme
 The admission will be anounced in **May, June or July** at your request to mlalgorithms(at)gmail.com.-->
 
 **Admission format:** interview

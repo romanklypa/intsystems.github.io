@@ -3,7 +3,7 @@ The admission will be anounced in **May, June or July** at your request to mlalg
 
 **Admission format:** interview
 
-### Algorithm of admission:
+### Algorithm of admission, bachelors, 2nd year:
 
 1) A student fills in the [form](http://bit.ly/1lFrFha),
 2) solves one of the following tasks,
@@ -20,7 +20,6 @@ The admission will be anounced in **May, June or July** at your request to mlalg
 4. Draw up a ranked list of applicants, publish [by the link here] and send it to the dean's office, close the reception.
 
 ### The Master admission procedure:
-### Процедура приема в магистратуру:
 1. A student fills the [form](http://bit.ly/1lFrFha),
 2. sends a request to mlalgorithms at gmail
 3. parts interview with

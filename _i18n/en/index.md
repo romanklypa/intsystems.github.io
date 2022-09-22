@@ -1,4 +1,4 @@
-[Department of Intelligent Systems](/ru/about/) is a basic department of [FPMI MIPT](https://fpmi.mipt.ru/master/), which basic Institute is a [Computing Center of the Russian Academy of Sciences](https://www.frccsc.ru/).  The department graduates bachelors and masters in the field of study 010900 "Applied Mathematics and physics".
+[Department of Intelligent Systems](/ru/about/) graduates bachelors and masters in the field of study "Applied Mathematics and physics".
 
 ### Announcements and Information
 - [Admission](/admission/)

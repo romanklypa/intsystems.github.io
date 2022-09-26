@@ -23,7 +23,6 @@
 |---|---|---|---|---|
 | 10:30-12:00 | [Методы глубокого обучения](/ru/course/deep_learning/index.html) | [Гребенькова О.С.](/ru/people/grebenkova_os/index.html), [Филатов А.В.](/ru/people/filatov_av/index.html) | Экзамен | 3 |
 | 12:10-13:40 | [Методы глубокого обучения: практика](/ru/course/deep_learning/index.html) | [Гребенькова О.С.](/ru/people/grebenkova_os/index.html), [Филатов А.В.](/ru/people/filatov_av/index.html) | Зачет | 1 |
-|  | [Алгоритмы вычислительной геометрии](/ru/course/computational_geometry/index.html) | [Местецкий Л.М.](/ru/people/mestetskiy_lm/index.html) | Зачет | 1 |
 | 14:30-16:00 | [Байесовский выбор моделей](/ru/course/bayesian_model_selection/index.html) | [Адуенко А.А.](/ru/people/aduenko_aa/index.html) | Зачет | 1 |
 | 16:10-17:40 | [Математические методы прогнозирования](/ru/course/forecasting_methods/index.html) | [Стрижов В.В.](/ru/people/strijov_vv/index.html), [Самохина А.М.](/ru/people/samokhina_am/index.html) | Зачет | 1 |
 

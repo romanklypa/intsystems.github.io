@@ -51,8 +51,8 @@
 - **September 15** - scientific scholarship deadline
 - **October 13** - deadline for submitting to MIPT conference
 - **December 4** - MIPT conference, listening of theses 6
-- **December 13** - listening of theses 4, 5
-- **December 12-18** - test week
+- **December 13** - Research reports 6, 4, 5, and PhD students (starts 16:00)
+- **December 12-18** - pre-exam week
 - **December 14** - research report
 
 #### Spring 2023 (preliminary)

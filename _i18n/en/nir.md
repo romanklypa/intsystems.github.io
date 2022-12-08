@@ -1,3 +1,34 @@
+### 2022 AUTUMN
+
+#### Postgraduate Students
+
+| Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+
+
+
+#### Second Year Master Students
+
+| Student | Year | Thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+
+
+
+#### First Year Master Students
+
+| Student | Year | Topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+
+
+#### Fourth Year Bachelor Students
+
+| Student | Year | Thesis topic | Scientific adviser | Link to publication |
+|:---:|:---:|:---:|:---:|:---:|
+
+
+
+
+
 ### 2022 SPRING
 
 #### Postgraduate Students

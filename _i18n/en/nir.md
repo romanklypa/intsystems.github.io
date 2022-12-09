@@ -4,6 +4,7 @@
 
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |
 
 
 
@@ -11,19 +12,20 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-
+|  |  |  |  |  |
 
 
 #### First Year Master Students
 
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-
+|  |  |  |  |  |
 
 #### Fourth Year Bachelor Students
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  |
 
 
 

@@ -12,6 +12,7 @@
 
 | Student | Year | Thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
+| Andrei Filatov | 2 | Infinite transformers | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://github.com/intsystems/Filatov-MS-Thesis/tree/master/paper), [Code](https://github.com/intsystems/Filatov-MS-Thesis/tree/master/code), [Slides](https://github.com/intsystems/Filatov-MS-Thesis/tree/master/slides) |
 |  |  |  |  |  |
 
 

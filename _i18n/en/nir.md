@@ -16,7 +16,7 @@
 | Rustem Islamov | 2 | Infinite transformers | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Paper](https://arxiv.org/abs/2206.03588), [Code](https://github.com/intsystems/Islamov-MS-Thesis/tree/main/Code), [Slides](https://github.com/intsystems/Islamov-MS-Thesis/blob/main/Presentation/Islamov2022PresentationMS.pdf) |
 | Bishuk Anton | 2 | Controlled Graph Generation | [Zukhba A.V.](https://mipt.ru/education/post-graduate/archive_main/fupm_d212.156.05/Candidates/Zukhba_Anastasiya_Viktorovna#.YboMr31Bw-Q) | [Paper](https://github.com/intsystems/Bishuk-MS-Thesis/tree/main/paper), [Code](https://github.com/intsystems/Bishuk-MS-Thesis/tree/main/code), [Slides](https://github.com/intsystems/Bishuk-MS-Thesis/tree/main/slides) |
 | Shokorov Viacheslav | 2 | Deep ensembles bootstrapping | Vetrov D.P. | [Notes](https://github.com/vshokorov/margin_based_ensembles_boosting/issues/5), [Code](https://github.com/vshokorov/margin_based_ensembles_boosting) |
-| Pankratov Viktor  | 2  | Probabilistic topic modelling | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov)  | [Paper](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/paper) ,[Code](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/code) ,[Slides](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/slides) |
+| Pankratov Viktor  | 2  | Probabilistic topic modelling | [Vorontsov K.V.](http://www.machinelearning.ru/wiki/index.php?title=User:Vokov)  | [Paper](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/paper), [Code](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/code), [Slides](https://github.com/intsystems/Pankratov-MS-Thesis/tree/main/slides) |
 |  |  |  |  |  |
 
 

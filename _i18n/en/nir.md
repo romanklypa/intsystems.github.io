@@ -21,7 +21,7 @@
 
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-| Maria Kovaleva | 2 | Research of efficient transformers | [Alexey Zaytsev](https://faculty.skoltech.ru/people/alexeizaitsev)|  |
+| Maria Kovaleva | 2 | Research of efficient transformers | [Alexey Zaytsev](https://faculty.skoltech.ru/people/alexeizaitsev)| [Paper](https://github.com/MarKovka20/Models-of-sequential-data-project/blob/main/proj_for_nir_presentation.pdf), [Code](https://github.com/MarKovka20/Models-of-sequential-data-project) |
 
 #### Fourth Year Bachelor Students
 

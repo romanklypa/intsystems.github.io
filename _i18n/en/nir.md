@@ -21,7 +21,7 @@
 
 | Student | Year | Topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
-|  |  |  |  |  |
+| Maria Kovaleva | 2 | Research of efficient transformers | [Alexey Zaytsev](https://faculty.skoltech.ru/people/alexeizaitsev)|  |
 
 #### Fourth Year Bachelor Students
 
